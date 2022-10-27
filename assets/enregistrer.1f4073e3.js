@@ -1,0 +1,1 @@
+import{d as e,o as s,c as r,e as o,g as a}from"./index.988c0aee.js";const c={class:"bg-GrisMoyen dark:bg-GrisMoyen"},d=e({__name:"enregistrer",setup(n){return(t,_)=>(s(),r("div",c,[o(a,{class:"grid grid-cols-3"})]))}});export{d as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./FormMontreC.vue_vue_type_script_setup_true_lang.b4fd98c4.js";import{d as n,o as r,l as t}from"./index.988c0aee.js";import"./FormKitListColors.vue_vue_type_script_setup_true_lang.2b5022b0.js";const p=n({__name:"[id]",props:{id:null},setup(o){return(a,i)=>(r(),t(e,{id:o.id},null,8,["id"]))}});export{p as default};
